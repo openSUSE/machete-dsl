@@ -1,4 +1,4 @@
-# Machete::Dsl
+# machete-dsl
 
 Are you tired of writing patterns for [Machete](https://github.com/openSUSE/machete)? You can use **Machete::DSL::Builder**
 
