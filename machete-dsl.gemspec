@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = Machete::DSL::VERSION
   gem.authors       = ["Piotr Niełacny"]
   gem.email         = ["piotr.nielacny@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{DSL builder for Machete}
+  gem.summary       = %q{DSL builder for Machete}
+  gem.homepage      = "https://github.com/openSUSE/machete-dsl"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
